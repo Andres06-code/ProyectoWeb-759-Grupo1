@@ -7,11 +7,11 @@ public class FirebaseService
 
     public FirebaseService()
     {
-        var crendetialPath = Path.Combine(AppContext.BaseDirectory, "Config", "firebase-credentials.json");
+        var crendetialPath = Path.Combine(AppContext.BaseDirectory, "config", "firebase-credentials.json");
         
         Environment.SetEnvironmentVariable("GOOGLE_APPLICATION_CREDENTIALS", crendetialPath);
         
-        _firestoreDb = FirestoreDb.Create("web-759-grupo1");
+        _firestoreDb = FirestoreDb.Create("prograweb-749");
     }
     public CollectionReference GetCollection(string collectionName)
     {
