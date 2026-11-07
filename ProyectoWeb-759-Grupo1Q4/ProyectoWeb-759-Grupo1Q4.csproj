@@ -8,13 +8,12 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <PackageReference Include="Google.Cloud.Firestore" Version="4.6.0" />
         <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.7"/>
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Config\" />
       <Folder Include="Controllers\" />
-      <Folder Include="Services\" />
     </ItemGroup>
 
 </Project>
