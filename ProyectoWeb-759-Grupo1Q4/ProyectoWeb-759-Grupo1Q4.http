@@ -1,0 +1,6 @@
+@ProyectoWeb_759_Grupo1Q4_HostAddress = http://localhost:5033
+
+GET {{ProyectoWeb_759_Grupo1Q4_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
