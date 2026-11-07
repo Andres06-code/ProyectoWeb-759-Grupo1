@@ -1,21 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "kop3WQKx83A=",
+  "dgSpecHash": "lbbcxt4rXRU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\RiderProjects\\jofielvelasquez4@gmail.com\\ProyectoWeb-759-Grupo1Q4\\ProyectoWeb-759-Grupo1Q4\\ProyectoWeb-759-Grupo1Q4.csproj",
+  "projectFilePath": "C:\\Users\\bryan\\Desktop\\PROYECTO WEB\\ProyectoWeb-759-Grupo1\\ProyectoWeb-759-Grupo1Q4\\ProyectoWeb-759-Grupo1Q4.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.7\\microsoft.aspnetcore.openapi.10.0.7.nupkg.sha512",
-    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
-    "C:\\Users\\Usuario\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
+    "C:\\Users\\bryan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.7\\microsoft.aspnetcore.openapi.10.0.7.nupkg.sha512",
+    "C:\\Users\\bryan\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
   ],
   "logs": [
     {
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
-      "projectPath": "C:\\Users\\Usuario\\RiderProjects\\jofielvelasquez4@gmail.com\\ProyectoWeb-759-Grupo1Q4\\ProyectoWeb-759-Grupo1Q4\\ProyectoWeb-759-Grupo1Q4.csproj",
+      "projectPath": "C:\\Users\\bryan\\Desktop\\PROYECTO WEB\\ProyectoWeb-759-Grupo1\\ProyectoWeb-759-Grupo1Q4\\ProyectoWeb-759-Grupo1Q4.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\Usuario\\RiderProjects\\jofielvelasquez4@gmail.com\\ProyectoWeb-759-Grupo1Q4\\ProyectoWeb-759-Grupo1Q4\\ProyectoWeb-759-Grupo1Q4.csproj",
+      "filePath": "C:\\Users\\bryan\\Desktop\\PROYECTO WEB\\ProyectoWeb-759-Grupo1\\ProyectoWeb-759-Grupo1Q4\\ProyectoWeb-759-Grupo1Q4.csproj",
       "libraryId": "Microsoft.OpenApi",
       "targetGraphs": [
         "net10.0"
