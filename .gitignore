@@ -1,0 +1,15 @@
+# Archivos de Build y compilacion
+bin/
+obj/
+
+# Rider
+.idea/
+
+**/Config/firebase-credentials.json
+
+#Sistema operativo
+.DS_Store
+.Thumbs.db
+
+*.user
+*.suo
