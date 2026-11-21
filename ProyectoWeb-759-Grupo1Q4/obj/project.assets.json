@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
     "net10.0": {
       "Google.Api.CommonProtos/2.17.0": {
@@ -886,28 +886,37 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
+    "C:\\Users\\vsmen\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\RiderProjects\\jofielvelasquez4@gmail.com\\ProyectoWeb-759-Grupo1Q4\\ProyectoWeb-759-Grupo1Q4\\ProyectoWeb-759-Grupo1Q4.csproj",
+      "projectUniqueName": "C:\\Users\\vsmen\\OneDrive - Universidad Tecnologica Centroamericana\\CEUTEC 2\\Programación Web\\ProyectoPrograWeb_\\ProyectoWeb-759-Grupo1\\ProyectoWeb-759-Grupo1Q4\\ProyectoWeb-759-Grupo1Q4.csproj",
       "projectName": "ProyectoWeb-759-Grupo1Q4",
-      "projectPath": "C:\\Users\\Usuario\\RiderProjects\\jofielvelasquez4@gmail.com\\ProyectoWeb-759-Grupo1Q4\\ProyectoWeb-759-Grupo1Q4\\ProyectoWeb-759-Grupo1Q4.csproj",
-      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\RiderProjects\\jofielvelasquez4@gmail.com\\ProyectoWeb-759-Grupo1Q4\\ProyectoWeb-759-Grupo1Q4\\obj\\",
+      "projectPath": "C:\\Users\\vsmen\\OneDrive - Universidad Tecnologica Centroamericana\\CEUTEC 2\\Programación Web\\ProyectoPrograWeb_\\ProyectoWeb-759-Grupo1\\ProyectoWeb-759-Grupo1Q4\\ProyectoWeb-759-Grupo1Q4.csproj",
+      "packagesPath": "C:\\Users\\vsmen\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vsmen\\OneDrive - Universidad Tecnologica Centroamericana\\CEUTEC 2\\Programación Web\\ProyectoPrograWeb_\\ProyectoWeb-759-Grupo1\\ProyectoWeb-759-Grupo1Q4\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\vsmen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {}
         }
@@ -922,10 +931,11 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.200"
+      "SdkAnalysisLevel": "10.0.300"
     },
     "frameworks": {
       "net10.0": {
+        "framework": "net10.0",
         "targetAlias": "net10.0",
         "dependencies": {
           "Google.Cloud.Firestore": {
@@ -956,7 +966,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Usuario\\.dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300-preview.0.26177.108/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
