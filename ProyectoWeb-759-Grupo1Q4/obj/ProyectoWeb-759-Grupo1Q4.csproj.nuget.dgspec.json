@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\noe56\\OneDrive\\Desktop\\Proyecto web\\ProyectoWeb-759-Grupo1\\ProyectoWeb-759-Grupo1Q4\\ProyectoWeb-759-Grupo1Q4.csproj": {}
+    "C:\\Users\\Usuario\\RiderProjects\\jofielvelasquez4@gmail.com\\ProyectoWeb-759-Grupo1Q4\\ProyectoWeb-759-Grupo1Q4\\ProyectoWeb-759-Grupo1Q4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\noe56\\OneDrive\\Desktop\\Proyecto web\\ProyectoWeb-759-Grupo1\\ProyectoWeb-759-Grupo1Q4\\ProyectoWeb-759-Grupo1Q4.csproj": {
+    "C:\\Users\\Usuario\\RiderProjects\\jofielvelasquez4@gmail.com\\ProyectoWeb-759-Grupo1Q4\\ProyectoWeb-759-Grupo1Q4\\ProyectoWeb-759-Grupo1Q4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\noe56\\OneDrive\\Desktop\\Proyecto web\\ProyectoWeb-759-Grupo1\\ProyectoWeb-759-Grupo1Q4\\ProyectoWeb-759-Grupo1Q4.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\RiderProjects\\jofielvelasquez4@gmail.com\\ProyectoWeb-759-Grupo1Q4\\ProyectoWeb-759-Grupo1Q4\\ProyectoWeb-759-Grupo1Q4.csproj",
         "projectName": "ProyectoWeb-759-Grupo1Q4",
-        "projectPath": "C:\\Users\\noe56\\OneDrive\\Desktop\\Proyecto web\\ProyectoWeb-759-Grupo1\\ProyectoWeb-759-Grupo1Q4\\ProyectoWeb-759-Grupo1Q4.csproj",
-        "packagesPath": "C:\\Users\\noe56\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\noe56\\OneDrive\\Desktop\\Proyecto web\\ProyectoWeb-759-Grupo1\\ProyectoWeb-759-Grupo1Q4\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\RiderProjects\\jofielvelasquez4@gmail.com\\ProyectoWeb-759-Grupo1Q4\\ProyectoWeb-759-Grupo1Q4\\ProyectoWeb-759-Grupo1Q4.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\RiderProjects\\jofielvelasquez4@gmail.com\\ProyectoWeb-759-Grupo1Q4\\ProyectoWeb-759-Grupo1Q4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\noe56\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -24,7 +24,6 @@
         },
         "frameworks": {
           "net10.0": {
-            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -39,11 +38,10 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.400"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
             "Google.Cloud.Firestore": {
@@ -74,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.402/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Users\\Usuario\\.dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
