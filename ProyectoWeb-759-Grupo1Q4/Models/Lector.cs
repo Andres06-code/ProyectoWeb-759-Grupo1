@@ -12,7 +12,6 @@ public class Lector
     public string Bio { get; set; } = string.Empty;
     public string Role { get; set; } = Roles.Lector;
     public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
-    
     public static class Roles
     {
         public const string Bibliotecario = "Bibliotecario";
